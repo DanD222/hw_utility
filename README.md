@@ -11,3 +11,5 @@ Soaring Vario Hardware Design for audio Module.
 - RJ12 connector for external I2C sensor.  Input ESD potection required?
 - RJ12 connector for air brakes, gear, flaps switch and one analog input.   How to protect these inputs? 
 - 9 to 30V DC DC power supply.   LV2842XLVDDCR ?
+
+- SD103AW  Schottky Barrier Diodes?
