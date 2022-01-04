@@ -18,17 +18,8 @@ Soaring Vario Hardware Design for audio Module.
 
 
 ## One concept
-- Bluepill
+- Bluepill  as STM32F4 Discovery is to large
 - 5V DC-DC 
-- Audio external
+- Audio
 - 30mV Peak Peak Ausschlag.   ?? 
 
-
-
-PWM1 - 10k - | 
-PWM2 - 10k - |  ---- |------ | ----- | ------|- > Audio Verstärker
-					1k		2k		4k		8k
-			   		|		|		|        |
-					PB1		PB2		PB3      PB4    => Either set low or floating. 
-					
-Welche PINS wurden verwendet?
