@@ -13,3 +13,22 @@ Soaring Vario Hardware Design for audio Module.
 - 9 to 30V DC DC power supply.   LV2842XLVDDCR ?
 
 - SD103AW  Schottky Barrier Diodes?
+
+
+
+
+## One concept
+- Bluepill
+- 5V DC-DC 
+- Audio external
+- 30mV Peak Peak Ausschlag.   ?? 
+
+
+
+PWM1 - 10k - | 
+PWM2 - 10k - |  ---- |------ | ----- | ------|- > Audio Verstärker
+					1k		2k		4k		8k
+			   		|		|		|        |
+					PB1		PB2		PB3      PB4    => Either set low or floating. 
+					
+Welche PINS wurden verwendet?

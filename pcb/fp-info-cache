@@ -1,0 +1,134 @@
+31184556721934
+STM32F4Di
+6p4c
+6p4c socket
+
+0
+4
+4
+STM32F4Di
+6p6c
+6p6c socket
+
+0
+6
+6
+STM32F4Di
+8p8c
+8p8c socket
+
+0
+8
+8
+STM32F4Di
+DIN64-A_C_90
+DIN64-A_C_90
+CONN DEV
+0
+64
+64
+STM32F4Di
+arduino_header
+Arduino Header
+Arduino
+0
+32
+32
+STM32F4Di
+arduino_mega_header
+Arduino Mega/Due Header
+Arduino
+0
+86
+86
+STM32F4Di
+arduino_nano_header
+Arduino Nano Header
+Arduino
+0
+30
+30
+STM32F4Di
+arduino_pin_socket_8
+Pin socket 8pin for Arduino exp. boards
+CONN DEV
+0
+8
+8
+STM32F4Di
+dc_socket
+Socket, DC power supply
+
+0
+3
+3
+STM32F4Di
+dc_socket_pj-002bh-smt-tr
+SMD Socket, DC power supply, CUI PJ-002BH-SMT-TR
+
+0
+4
+3
+STM32F4Di
+dc_socket_rh
+Socket, DC power supply, round holes
+
+0
+18
+3
+STM32F4Di
+microsd_socket
+MicroSD Card socket, Molex P/N 502774-0811
+
+0
+14
+10
+STM32F4Di
+molex_6p6c
+RJ11 6p6c socket, Molex P/N 95009-7667
+
+0
+6
+6
+STM32F4Di
+sd_socket
+SD Card socket, 4UCON P/N 19607
+
+0
+17
+12
+STM32F4Di
+stm32f0_discovery_header
+STM32 F0 Discovery Header
+STM32F0 Discovery
+0
+66
+66
+STM32F4Di
+stm32f3_discovery_header
+STM32 F3 Discovery Header
+STM32F3 Discovery
+0
+106
+100
+STM32F4Di
+stm32f4_discovery_header
+STM32 F4 Discovery Header
+STM32F4 Discovery
+0
+104
+100
+STM32F4Di
+stm32vl_discovery_header
+STM32 Value Line Discovery Header
+STM32VL Discovery
+0
+62
+62
+STM32F4Di
+wago_2060-451
+Wago 2060-451
+
+0
+2
+1

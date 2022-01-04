@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "lv2842x")(type "KiCad")(uri "C:/Users/mbetz/Documents/privat/projects/hw_the_soar_audio/parts/lv2842/lv2842x.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32F4Di")(type "Legacy")(uri "C:/Users/mbetz/Documents/privat/projects/hw_the_soar_audio/parts/kicadlib/stm32f4discovery/w_connectors.lib")(options "")(descr ""))
+  (lib (name "Bluepill")(type "Legacy")(uri "C:/Users/mbetz/Documents/privat/projects/hw_the_soar_audio/parts/kicadlib/blue-pill-kicad-master/bp.lib")(options "")(descr ""))
 )
