@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\mbetz\Documents\privat\projects\hw_the_soar_audio\pcb\soar_audio.kicad_sch</source>
-    <date>05.01.2022 17:04:41</date>
+    <date>05.01.2022 18:08:03</date>
     <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -686,12 +686,12 @@
     </comp>
     <comp ref="L1">
       <value>10u</value>
-      <footprint>Inductor_SMD:L_Bourns-SRN4018</footprint>
+      <footprint>OWN_PARTS:MWSA0402S</footprint>
       <fields>
-        <field name="LCSC">C98402</field>
+        <field name="LCSC">C408339</field>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="LCSC" value="C98402"/>
+      <property name="LCSC" value="C408339"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="soar_audio.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
