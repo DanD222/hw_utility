@@ -4,6 +4,12 @@
 
   (paper "A3")
 
+  (title_block
+    (title "the SOAR Utility")
+    (date "2022-01-05")
+    (rev "v1.0")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Audio:PAM8302AAS" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 7.62 11.43 0)
