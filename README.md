@@ -1,6 +1,7 @@
 # Hardware_SOAR_Utility
 Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, RS232 and some digitial inputs. 
-PCB assembly files are in pcb/assembly/
+- PCB assembly files are below pcb/assembly/
+- PDF Schematic is below pcb/pdf_exports/ 
 
 ## Components
 - STM32F103 Bluepill board.
@@ -14,7 +15,7 @@ PCB assembly files are in pcb/assembly/
 - 1.27mm pitch header for RS232 and SPI interface
 
 
-## Preview Image 
+## 3D Preview 
 ![3D Preview](media/3d_view.JPG)
 
 
