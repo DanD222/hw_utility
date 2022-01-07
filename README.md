@@ -5,7 +5,7 @@ Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, 
 
 ## Components
 - STM32F103 Bluepill board.
-- 9 to 30V DC DC power supply.   LV2842XLVDDCR
+- 9 to 30V DC DC power supply.
 - PAM8302AAS  audio amplifier connected to STM32F1 PWM output
 - Screwterminal for loudspeaker
 - RJ45 connector for sensing e.g. gear, flaps, airbrakes postion
