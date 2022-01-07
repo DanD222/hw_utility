@@ -16,7 +16,7 @@ Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, 
 
 
 ## 3D Preview 
-![3D Preview](media/3d_view.JPG)
+![3D Preview](media/3d_preview.JPG)
 
 
 
