@@ -15,8 +15,8 @@ Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, 
 - 1.27mm pitch header for RS232 and SPI interface
 
 
-## 3D Preview 
+## Pictures
 ![3D Preview](media/3d_preview.JPG)
 
-
+![3D Preview](media/board.jpg)
 
