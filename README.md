@@ -20,3 +20,7 @@ Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, 
 
 ![3D Preview](media/board.jpg)
 
+
+
+## Improvements for next version
+- External connectors for voltage / I2C / RS232 are tiny.  Increase size to e.g. 2.54mm pitch or chose a different connector.
