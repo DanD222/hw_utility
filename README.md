@@ -24,4 +24,5 @@ Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, 
 
 ## Improvements for next version
 - External connectors for voltage / I2C / RS232 are tiny.  Increase size to e.g. 2.54mm pitch or chose a different connector.
+- Make external i2c sensor voltage switchable to be able to perform a hard sensor reset. 
 - Replace C32 47uF with a sufficient voltage rating. The used one is only specified for up to 10V!
