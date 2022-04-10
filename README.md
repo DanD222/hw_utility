@@ -1,5 +1,5 @@
-# Hardware_SOAR_Utility
-Soaring Vario Hardware Design for Audio Module, Analog Inputs, I2C/SPI sensors, RS232 and some digitial inputs. 
+# PCB design for utility module
+Utility hardware design for Audio Module, Analog Inputs, I2C/SPI sensors, RS232 and some digitial inputs. 
 - PCB assembly files are below pcb/assembly/
 - PDF Schematic is below pcb/pdf_exports/ 
 
